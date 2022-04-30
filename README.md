@@ -1,7 +1,7 @@
 
 # Amstrad CPC 6128 for MiST and MiSTer (MODIFYED)
 
-| Do not use this repositiry! Use original
+**Do not use this repositiry! Use original instead!**
 
 This core has been started as a port of [CoreAmstrad by Renaud Hélias](https://github.com/renaudhelias/CoreAmstrad) but every module has been either rewritten or replaced so, now it can be treated as a completely new core.
 
